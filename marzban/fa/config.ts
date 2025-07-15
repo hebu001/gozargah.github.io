@@ -64,7 +64,7 @@ export const config: DefaultTheme.Config = {
     copyright: 'توسعه داده شده در کارگروه گذرگاه',
   },
   editLink: {
-    pattern: 'https://github.com/gozargah/gozargah.github.io/edit/master/marzban/:path',
+    pattern: 'https://github.com/hebu001/hebu001.github.io/edit/master/marzban/:path',
     text: 'ویرایش این صفحه در گیت‌هاب',
   },
   outlineTitle: 'محتوا صفحه',
