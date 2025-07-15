@@ -61,7 +61,7 @@ export const config = {
     copyright: 'Авторское право © 2023-настоящее время Gozargah',
   },
   editLink: {
-    pattern: 'https://github.com/gozargah/gozargah.github.io/edit/master/marzban/ru/:path',
+    pattern: 'https://github.com/hebu001/hebu001.github.io/edit/master/marzban/ru/:path',
     text: 'Отредактировать эту страницу на GitHub',
   },
   notFound: {
