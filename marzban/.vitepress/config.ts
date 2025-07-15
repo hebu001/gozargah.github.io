@@ -54,12 +54,12 @@ export default defineConfig({
   themeConfig: {
     i18nRouting: true,
     logo: '/images/logo-dark.png',
-    socialLinks: [{ icon: 'github', link: 'https://github.com/gozargah/marzban' }],
+    socialLinks: [{ icon: 'github', link: 'https://github.com/hebu001/marzban' }],
     search: {
       provider: 'local',
     },
   },
   sitemap: {
-    hostname: 'https://gozargah.github.io',
+    hostname: 'https://hebu001.github.io',
   },
 })
